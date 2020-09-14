@@ -1,0 +1,19 @@
+C:\Users\sanda\source\repos\Main Window\bin\Debug\Main Window.exe.config
+C:\Users\sanda\source\repos\Main Window\bin\Debug\Main Window.exe
+C:\Users\sanda\source\repos\Main Window\bin\Debug\Main Window.pdb
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.Form1.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.FrontControl.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.Properties.Resources.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\BIT CODE Attendance Management System.csproj.GenerateResource.cache
+C:\Users\sanda\source\repos\Main Window\obj\Debug\BIT CODE Attendance Management System.csproj.CoreCompileInputs.cache
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main Window.exe
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main Window.pdb
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.RegistrationUCcs.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.Attendance.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.Report.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.ChangePass.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.DeleteUserUC.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\BIT CODE Attendance Management System.csprojAssemblyReference.cache
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.Log_In.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.SignUp.resources
+C:\Users\sanda\source\repos\Main Window\obj\Debug\Main_Window.SplashScreen.resources
